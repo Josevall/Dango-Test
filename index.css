@@ -96,8 +96,9 @@ input {
     margin: 0 auto;
     margin-bottom: 20px;
 }
-.link-duplicate {
-    margin: 15px auto  30px auto;
+.link-duplicate,
+.link-go-back {
+    margin: 15px auto 30px auto;
 }
 .duplicated-button {
     background: rgb(152, 195, 236);
